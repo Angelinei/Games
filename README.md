@@ -2,6 +2,7 @@
 Basic Games to spend time
 
 Rock, Paper, Scissors Game 🎮
+
 This is a simple Python implementation of the classic Rock, Paper, Scissors game with two versions:
 
 Single Match: A straightforward game where two players compete in a single round.
